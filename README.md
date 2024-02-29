@@ -19,7 +19,7 @@
        </section>
 <section id="resume">
   <h2>Resume Section:</h2>
-  <p>Download my resume in PDF format <a href="link-to-your-resume.pdf" download>here</a>.</p>
+  <p>Download my resume in PDF format <a href="Resume.pdf" download>here</a>.</p>
 </section>
     <section id="contact">
   <h2>Contact:</h2>
