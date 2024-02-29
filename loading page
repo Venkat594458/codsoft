@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Landing Page </title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+    }
+
+    nav {
+        display: inline-block;
+    }
+
+    nav a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 10px;
+    }
+
+    .hero {
+        background-image: url('https://via.placeholder.com/1500x500');
+        background-size: cover;
+        background-position: center;
+        color: #fff;
+        text-align: center;
+        padding: 100px 0;
+    }
+
+    .features {
+        background-color: #f4f4f4;
+        padding: 50px 0;
+        text-align: center;
+    }
+
+    .feature-item {
+        display: inline-block;
+        margin: 0 20px;
+    }
+
+    .about {
+        padding: 50px 0;
+        text-align: center;
+    }
+
+    .call-to-action {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 50px 0;
+    }
+
+    footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 20px 0;
+    }
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Landing Page Example</h1>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Features</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>Welcome to our Landing Page</h2>
+    <p>This is a simple example of a landing page created with HTML and CSS.</p>
+    <button>Learn More</button>
+</section>
+
+<section class="features">
+    <h2>Key Features</h2>
+    <div class="feature-item">
+        <h3>Feature 1</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+    <div class="feature-item">
+        <h3>Feature 2</h3>
+        <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="feature-item">
+        <h3>Feature 3</h3>
+        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    </div>
+</section>
+
+<section class="about">
+    <h2>About Us</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</section>
+
+<section class="call-to-action">
+    <h2>Ready to get started?</h2>
+    <button>Contact Us</button>
+</section>
+
+<footer>
+    <p>&copy; 2024 Landing Page Example. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
