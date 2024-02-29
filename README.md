@@ -30,7 +30,7 @@
 </section>
     <footer>
   <p>&copy; 2024 Your Name. All rights reserved.</p>
-  <p>Additional Links: <a href="https://www.linkedin.com/in/venkata-pavan-kumar-872a66250/">LinkedIn</a> | <a href="insert-link-to-your-GitHub-profile">GitHub</a></p>
+  <p>Additional Links: <a href="https://www.linkedin.com/in/venkata-pavan-kumar-872a66250/">LinkedIn</a> | <a href="[insert-link-to-your-GitHub-profile](https://github.com/Venkat594458)">GitHub</a></p>
 </footer>
   </body>
 </html>
