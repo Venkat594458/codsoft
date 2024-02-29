@@ -29,7 +29,7 @@
   </ul>
 </section>
     <footer>
-  <p>&copy; 2024 Your Name. All rights reserved.</p>
+  <p>&copy; 2024 VENKATA PAVAN KUMAR. All rights reserved.</p>
   <p>Additional Links: <a href="https://www.linkedin.com/in/venkata-pavan-kumar-872a66250/">LinkedIn</a>                                                                                                 
 </footer>
   </body>
