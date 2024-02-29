@@ -16,11 +16,17 @@
               <P>I HAVE IDEA OF FRONTEND DEVELOPMENT.I HAVE BASICS OF PYTHON</P>
               <h3>Projects</h3>
               <p>This is my first project for my carrier</p>
+       </section>
        <section id="resume">
   <h2>Resume Section:</h2>
   <p>Download my resume in PDF format <a href="My resume.pdf" download>here</a>.</p>
 </section>
-
- </section>
+    <section id="contact">
+  <h2>Contact:</h2>
+  <ul>
+    <li>Email: <a href="21pa1a5738@vishnu.edu.in">your.email@example.com</a></li>
+    <li>Phone: +123-456-7890</li>
+  </ul>
+</section>
   </body>
 </html>
