@@ -14,10 +14,9 @@
               <p>I able to webpages using html and css.I am fresher for the it industry</p>
               <h2>SKILLS</h2>
               <P>I HAVE IDEA OF FRONTEND DEVELOPMENT.I HAVE BASICS OF PYTHON</P>
+              <h3>Projects</h3>
+              <p>This is my first project for my carier</p>
 
     </section>
-    <section>
-    
-
   </body>
 </html>
