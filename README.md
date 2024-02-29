@@ -5,7 +5,7 @@
   </head>
   <body>
     <header>
-        <img src="https://as2.ftcdn.net/v2/jpg/02/72/92/57/1000_F_272925704_1qM9NGnvwWjuKekr4SyZvmLtb7clTNBL.jpg" alt="portfolio.jpeg">
+        <img src="https://as2.ftcdn.net/v2/jpg/02/72/92/57/1000_F_272925704_1qM9NGnvwWjuKekr4SyZvmLtb7clTNBL.jpg" alt="MY LOGO">
         <h1>MUTLURI VENKATA PAVAN KUMAR</h1>
         <p>MY SELF MUTLURI VENKATA PAVAN KUMAR.I AM FROM BAPATLA.I COMPLETED MY TENTH STANDARD IN M.V.R.S.VIVEKA HIGH SCHOOL WITH 9.3GRADES.I COMPLETED MY INTERMEDIATE IN SRI CHAITANYA JUNIOR COLLEGE WITH 872MARKS</p>
     </header>
