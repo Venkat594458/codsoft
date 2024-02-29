@@ -24,8 +24,8 @@
     <section id="contact">
   <h2>Contact:</h2>
   <ul>
-    <li>Email: <a href="21pa1a5738@vishnu.edu.in">your.email@example.com</a></li>
-    <li>Phone: +123-456-7890</li>
+    <li>Email: <a href="21pa1a5738@vishnu.edu.in">21pa1a5738@vishnu.edu.in</a></li>
+    <li>Phone: 9392667355</li>
   </ul>
 </section>
   </body>
