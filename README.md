@@ -16,6 +16,9 @@
               <P>I HAVE IDEA OF FRONTEND DEVELOPMENT.I HAVE BASICS OF PYTHON</P>
               <h3>Projects</h3>
               <p>This is my first project for my carrier</p>
+          <footer>
+        <p>Download my resume in PDF format: <a href="path/to/your/resume.pdf" download="Your_Name_Resume.pdf">Download Resume</a></p>
+    </footer>
  </section>
   </body>
 </html>
