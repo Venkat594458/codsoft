@@ -15,8 +15,7 @@
               <h2>SKILLS</h2>
               <P>I HAVE IDEA OF FRONTEND DEVELOPMENT.I HAVE BASICS OF PYTHON</P>
               <h3>Projects</h3>
-              <p>This is my first project for my carier</p>
-
-    </section>
+              <p>This is my first project for my carrier</p>
+ </section>
   </body>
 </html>
