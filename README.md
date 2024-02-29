@@ -28,5 +28,9 @@
     <li>Phone: 9392667355</li>
   </ul>
 </section>
+    <footer>
+  <p>&copy; 2024 Your Name. All rights reserved.</p>
+  <p>Additional Links: <a href="https://www.linkedin.com/in/venkata-pavan-kumar-872a66250/">LinkedIn</a> | <a href="insert-link-to-your-GitHub-profile">GitHub</a></p>
+</footer>
   </body>
 </html>
